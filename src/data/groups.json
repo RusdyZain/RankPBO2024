@@ -1,0 +1,758 @@
+[
+  {
+    "Kelompok": 1,
+    "NIM": "F1D022067",
+    "Nama": "MUHAMMAD ADITYA RIZKI",
+    "Pendamping": "Ali"
+  },
+  {
+    "Kelompok": 1,
+    "NIM": "F1D022094",
+    "Nama": "RIZKY INSANIA RAMADHANI",
+    "Pendamping": "Ali"
+  },
+  {
+    "Kelompok": 1,
+    "NIM": "F1D022158",
+    "Nama": "RIZALDI ABYANNATA",
+    "Pendamping": "Ali"
+  },
+  {
+    "Kelompok": 2,
+    "NIM": "F1D022088",
+    "Nama": "RAFLI RIZANI",
+    "Pendamping": "Rusdi"
+  },
+  {
+    "Kelompok": 2,
+    "NIM": "F1D022081",
+    "Nama": "NABILA NOOR AZIZAH",
+    "Pendamping": "Rusdi"
+  },
+  {
+    "Kelompok": 2,
+    "NIM": "F1D022012",
+    "Nama": "MICHAEL EFFENDY",
+    "Pendamping": "Rusdi"
+  },
+  {
+    "Kelompok": 3,
+    "NIM": "F1D022005",
+    "Nama": "DHINDA TSAMARA SHALSABILLA",
+    "Pendamping": "Gerald"
+  },
+  {
+    "Kelompok": 3,
+    "NIM": "F1D022101",
+    "Nama": "WAHYUNI SULASTRI",
+    "Pendamping": "Gerald"
+  },
+  {
+    "Kelompok": 3,
+    "NIM": "F1D022036",
+    "Nama": "BAIQ ANNISA TSALIST AGNA",
+    "Pendamping": "Gerald"
+  },
+  {
+    "Kelompok": 4,
+    "NIM": "F1D022121",
+    "Nama": "GEVANO KEVIN RAVENSY",
+    "Pendamping": "Bita"
+  },
+  {
+    "Kelompok": 4,
+    "NIM": "F1D022052",
+    "Nama": "IDA BAGUS BRAHMANTA JAYANA",
+    "Pendamping": "Bita"
+  },
+  {
+    "Kelompok": 4,
+    "NIM": "F1D022075",
+    "Nama": "MUHAMMAD NUNE HURIA SAKTI",
+    "Pendamping": "Bita"
+  },
+  {
+    "Kelompok": 5,
+    "NIM": "F1D022098",
+    "Nama": "TEGUH DWI JULYANTO",
+    "Pendamping": "Kinan"
+  },
+  {
+    "Kelompok": 5,
+    "NIM": "F1D022102",
+    "Nama": "YUSRIL IBTIDA RAMDHANI",
+    "Pendamping": "Kinan"
+  },
+  {
+    "Kelompok": 5,
+    "NIM": "F1D022155",
+    "Nama": "REFA FADILA FASA",
+    "Pendamping": "Kinan"
+  },
+  {
+    "Kelompok": 6,
+    "NIM": "F1D022011",
+    "Nama": "LALU CHOLIDIMAS RANIAWAN",
+    "Pendamping": "Adit"
+  },
+  {
+    "Kelompok": 6,
+    "NIM": "F1D022062",
+    "Nama": "MAESURO AMALIA",
+    "Pendamping": "Adit"
+  },
+  {
+    "Kelompok": 6,
+    "NIM": "F1D022069",
+    "Nama": "MUHAMMAD ARYAN FATHURRAHMAN",
+    "Pendamping": "Adit"
+  },
+  {
+    "Kelompok": 7,
+    "NIM": "F1D022049",
+    "Nama": "I NENGAH DWI PUTRA WITARSANA",
+    "Pendamping": "Gerald"
+  },
+  {
+    "Kelompok": 7,
+    "NIM": "F1D022070",
+    "Nama": "MUHAMMAD EYSAR ASSAZILY",
+    "Pendamping": "Gerald"
+  },
+  {
+    "Kelompok": 7,
+    "NIM": "F1D022118",
+    "Nama": "EXCEL CAESARIANO",
+    "Pendamping": "Gerald"
+  },
+  {
+    "Kelompok": 8,
+    "NIM": "F1D022006",
+    "Nama": "GUSTI AYU DEVI ANJANI PUTRI",
+    "Pendamping": "Afdhol"
+  },
+  {
+    "Kelompok": 8,
+    "NIM": "F1D022091",
+    "Nama": "RIZAL DWI KURNIAWAN",
+    "Pendamping": "Afdhol"
+  },
+  {
+    "Kelompok": 8,
+    "NIM": "F1D022073",
+    "Nama": "MUHAMMAD HAZIM MAULANA",
+    "Pendamping": "Afdhol"
+  },
+  {
+    "Kelompok": 9,
+    "NIM": "F1D022162",
+    "Nama": "ZAHRA TRI LUSIANA",
+    "Pendamping": "Darmawan"
+  },
+  {
+    "Kelompok": 9,
+    "NIM": "F1D022125",
+    "Nama": "INDI AYUNI LESTARI",
+    "Pendamping": "Darmawan"
+  },
+  {
+    "Kelompok": 9,
+    "NIM": "F1D022054",
+    "Nama": "INDIRA FELISTA SANIS SUPARSA",
+    "Pendamping": "Darmawan"
+  },
+  {
+    "Kelompok": 10,
+    "NIM": "F1D022057",
+    "Nama": "LALU OLFATA VEDORA ZURJI",
+    "Pendamping": "Anzila"
+  },
+  {
+    "Kelompok": 10,
+    "NIM": "F1D022050",
+    "Nama": "IDA AYU DEWI PURNAMA ANJANI",
+    "Pendamping": "Anzila"
+  },
+  {
+    "Kelompok": 10,
+    "NIM": "F1D022024",
+    "Nama": "RAIZUL FURKON",
+    "Pendamping": "Anzila"
+  },
+  {
+    "Kelompok": 11,
+    "NIM": "F1D022020",
+    "Nama": "PUTU INDAH PUSPITA DEWI",
+    "Pendamping": "Afdhol"
+  },
+  {
+    "Kelompok": 11,
+    "NIM": "F1D022111",
+    "Nama": "ANDIKA DHANAN JAYA",
+    "Pendamping": "Afdhol"
+  },
+  {
+    "Kelompok": 11,
+    "NIM": "F1D022037",
+    "Nama": "BAIQ LUTHFIDA KHAIRUNNISA",
+    "Pendamping": "Afdhol"
+  },
+  {
+    "Kelompok": 12,
+    "NIM": "F1D022150",
+    "Nama": "NURUL QALBI ZAHRANI",
+    "Pendamping": "Fahir"
+  },
+  {
+    "Kelompok": 12,
+    "NIM": "F1D022045",
+    "Nama": "FRIESKY ASTRIA DEWI LESTARI",
+    "Pendamping": "Fahir"
+  },
+  {
+    "Kelompok": 12,
+    "NIM": "F1D022103",
+    "Nama": "ZELENA INTAN MARDITA",
+    "Pendamping": "Fahir"
+  },
+  {
+    "Kelompok": 13,
+    "NIM": "F1D022038",
+    "Nama": "DARA FINAS ELEN",
+    "Pendamping": "Zhafran"
+  },
+  {
+    "Kelompok": 13,
+    "NIM": "F1D022143",
+    "Nama": "MUHAMMAD DZAKI AL-QUSHOYYI",
+    "Pendamping": "Zhafran"
+  },
+  {
+    "Kelompok": 13,
+    "NIM": "F1D022152",
+    "Nama": "QHAULAN SYAQHILA",
+    "Pendamping": "Zhafran"
+  },
+  {
+    "Kelompok": 14,
+    "NIM": "F1D022047",
+    "Nama": "I GEDE PANDU GOVINDA PADMA",
+    "Pendamping": "Febri"
+  },
+  {
+    "Kelompok": 14,
+    "NIM": "F1D022013",
+    "Nama": "MUHAMMAD ANHAR SOLIHIN",
+    "Pendamping": "Febri"
+  },
+  {
+    "Kelompok": 14,
+    "NIM": "F1D022093",
+    "Nama": "RIZKI RAHMAN MAULANA",
+    "Pendamping": "Febri"
+  },
+  {
+    "Kelompok": 15,
+    "NIM": "F1D022146",
+    "Nama": "MUHAMMAD RIZKI ASSAMSULI",
+    "Pendamping": "Raihan"
+  },
+  {
+    "Kelompok": 15,
+    "NIM": "F1D022109",
+    "Nama": "ALDRIN RAHMAD ALDINO",
+    "Pendamping": "Raihan"
+  },
+  {
+    "Kelompok": 15,
+    "NIM": "F1D022105",
+    "Nama": "ADHYATMIKA EKA SAPUTRA",
+    "Pendamping": "Raihan"
+  },
+  {
+    "Kelompok": 16,
+    "NIM": "F1D022156",
+    "Nama": "REGIA PUSPA AMARANTHI",
+    "Pendamping": "Bita"
+  },
+  {
+    "Kelompok": 16,
+    "NIM": "F1D022116",
+    "Nama": "CINDY AULIA RAHMANI",
+    "Pendamping": "Bita"
+  },
+  {
+    "Kelompok": 16,
+    "NIM": "F1D022095",
+    "Nama": "RIZKY MAULANA RAMDHANI",
+    "Pendamping": "Bita"
+  },
+  {
+    "Kelompok": 17,
+    "NIM": "F1D022046",
+    "Nama": "I GEDE MANIK ARIYASA",
+    "Pendamping": "Ghifary"
+  },
+  {
+    "Kelompok": 17,
+    "NIM": "F1D022077",
+    "Nama": "MUHAMMAD RIFKYANDRYAN RUSTANTO",
+    "Pendamping": "Ghifary"
+  },
+  {
+    "Kelompok": 17,
+    "NIM": "F1D022051",
+    "Nama": "IDA AYU RAVIKAN VARAPANNA PUTRA",
+    "Pendamping": "Ghifary"
+  },
+  {
+    "Kelompok": 18,
+    "NIM": "F1D022059",
+    "Nama": "LALU. RESTU BAGUS ANUGRAH",
+    "Pendamping": "Raihan"
+  },
+  {
+    "Kelompok": 18,
+    "NIM": "F1D022058",
+    "Nama": "LALU ROMY RAHMAD AMARTA PUTRA",
+    "Pendamping": "Raihan"
+  },
+  {
+    "Kelompok": 18,
+    "NIM": "F1D022157",
+    "Nama": "RISFANDA AUDIARRAHMAN CHARISMA",
+    "Pendamping": "Raihan"
+  },
+  {
+    "Kelompok": 19,
+    "NIM": "F1D022016",
+    "Nama": "NABILA ANNISA RYANTHIKA",
+    "Pendamping": "Holil"
+  },
+  {
+    "Kelompok": 19,
+    "NIM": "F1D022010",
+    "Nama": "KARUNIA PUTRI",
+    "Pendamping": "Holil"
+  },
+  {
+    "Kelompok": 19,
+    "NIM": "F1D022023",
+    "Nama": "RAHEL TIONA GRACELLA SIMANJUNTAK",
+    "Pendamping": "Holil"
+  },
+  {
+    "Kelompok": 20,
+    "NIM": "F1D022065",
+    "Nama": "MUHAMAD ERWIN HARIADINATA",
+    "Pendamping": "Reza"
+  },
+  {
+    "Kelompok": 20,
+    "NIM": "F1D022032",
+    "Nama": "ALDA DWI APRISAGITA",
+    "Pendamping": "Reza"
+  },
+  {
+    "Kelompok": 20,
+    "NIM": "F1D022017",
+    "Nama": "NI PUTU ALVINA PUTRI",
+    "Pendamping": "Reza"
+  },
+  {
+    "Kelompok": 21,
+    "NIM": "F1D022154",
+    "Nama": "RAFLI FACHRIN KARDIANSYAH",
+    "Pendamping": "Febri"
+  },
+  {
+    "Kelompok": 21,
+    "NIM": "F1D022080",
+    "Nama": "MUHAMMAD ZIDAN AZZAKI",
+    "Pendamping": "Febri"
+  },
+  {
+    "Kelompok": 21,
+    "NIM": "F1D022022",
+    "Nama": "RAFLI",
+    "Pendamping": "Febri"
+  },
+  {
+    "Kelompok": 22,
+    "NIM": "F1D022068",
+    "Nama": "MUHAMMAD ALFIN RIDO",
+    "Pendamping": "Reza"
+  },
+  {
+    "Kelompok": 22,
+    "NIM": "F1D022008",
+    "Nama": "I PUTU RADITYA SATYA KARSA WARDANA",
+    "Pendamping": "Reza"
+  },
+  {
+    "Kelompok": 22,
+    "NIM": "F1D022009",
+    "Nama": "INDRA MAULANA",
+    "Pendamping": "Reza"
+  },
+  {
+    "Kelompok": 23,
+    "NIM": "F1D022122",
+    "Nama": "HENDRA AHMAD YANI",
+    "Pendamping": "Zhafran"
+  },
+  {
+    "Kelompok": 23,
+    "NIM": "F1D022120",
+    "Nama": "FERNANDAO KWANGTAMA TEKAYADI",
+    "Pendamping": "Zhafran"
+  },
+  {
+    "Kelompok": 23,
+    "NIM": "F1D022085",
+    "Nama": "NURUL FATIMAH",
+    "Pendamping": "Zhafran"
+  },
+  {
+    "Kelompok": 24,
+    "NIM": "F1D022060",
+    "Nama": "M. ARIO PUTRA FERDIAN PRATAMA",
+    "Pendamping": "As'ad"
+  },
+  {
+    "Kelompok": 24,
+    "NIM": "F1D022115",
+    "Nama": "BAIQ SINDI HANJANI",
+    "Pendamping": "As'ad"
+  },
+  {
+    "Kelompok": 24,
+    "NIM": "F1D022029",
+    "Nama": "ABDUL AQIL MURTADHO",
+    "Pendamping": "As'ad"
+  },
+  {
+    "Kelompok": 25,
+    "NIM": "F1D022129",
+    "Nama": "LALU FARISZ ISLAMAY FIRMANSYAH",
+    "Pendamping": "Fahir"
+  },
+  {
+    "Kelompok": 25,
+    "NIM": "F1D022124",
+    "Nama": "IDA AYU VINAYA ANINDYA",
+    "Pendamping": "Fahir"
+  },
+  {
+    "Kelompok": 25,
+    "NIM": "F1D022097",
+    "Nama": "SAUFI AZUDDIN",
+    "Pendamping": "Fahir"
+  },
+  {
+    "Kelompok": 26,
+    "NIM": "F1D022056",
+    "Nama": "LALU MUHAMMAD NOVAL ADIPRATAMA",
+    "Pendamping": "Amdila"
+  },
+  {
+    "Kelompok": 26,
+    "NIM": "F1D022112",
+    "Nama": "ANSELMA KALIKA KIRANA",
+    "Pendamping": "Amdila"
+  },
+  {
+    "Kelompok": 26,
+    "NIM": "F1D022126",
+    "Nama": "KALSUM RAHMAWATI",
+    "Pendamping": "Amdila"
+  },
+  {
+    "Kelompok": 27,
+    "NIM": "F1D022145",
+    "Nama": "MUHAMMAD FIQRI JORDY ARDIANTO",
+    "Pendamping": "Adit"
+  },
+  {
+    "Kelompok": 27,
+    "NIM": "F1D021037",
+    "Nama": "GAGAH PUTRA LESMANA",
+    "Pendamping": "Adit"
+  },
+  {
+    "Kelompok": 27,
+    "NIM": "F1D022106",
+    "Nama": "ADIETYA EKA FIRMANSYAH",
+    "Pendamping": "Adit"
+  },
+  {
+    "Kelompok": 28,
+    "NIM": "F1D022003",
+    "Nama": "APRILIANINGSIH",
+    "Pendamping": "Kinan"
+  },
+  {
+    "Kelompok": 28,
+    "NIM": "F1D022027",
+    "Nama": "YENI SEPTIANI PUTRI",
+    "Pendamping": "Kinan"
+  },
+  {
+    "Kelompok": 28,
+    "NIM": "F1D022041",
+    "Nama": "ELYANA ASTUTY",
+    "Pendamping": "Kinan"
+  },
+  {
+    "Kelompok": 29,
+    "NIM": "F1D022031",
+    "Nama": "ADITYA RAHMATDIYANSYAH",
+    "Pendamping": "Hilman"
+  },
+  {
+    "Kelompok": 29,
+    "NIM": "F1D022028",
+    "Nama": "ABDI APRIADI",
+    "Pendamping": "Hilman"
+  },
+  {
+    "Kelompok": 29,
+    "NIM": "F1D022019",
+    "Nama": "PATRIALIS AKBAR",
+    "Pendamping": "Hilman"
+  },
+  {
+    "Kelompok": 30,
+    "NIM": "F1D022161",
+    "Nama": "SULTHAN ABDILLAH WIJAYA RAYES",
+    "Pendamping": "As'ad"
+  },
+  {
+    "Kelompok": 30,
+    "NIM": "F1D022151",
+    "Nama": "PRADIVA WIYUDHA MAHESWARA",
+    "Pendamping": "As'ad"
+  },
+  {
+    "Kelompok": 30,
+    "NIM": "F1D022072",
+    "Nama": "MUHAMMAD FAJAR MAULANA",
+    "Pendamping": "As'ad"
+  },
+  {
+    "Kelompok": 31,
+    "NIM": "F1D022090",
+    "Nama": "RIDHO ADHIMAM PUTRA",
+    "Pendamping": "Anzila"
+  },
+  {
+    "Kelompok": 31,
+    "NIM": "F1D022099",
+    "Nama": "TRI SHANDY ANANTA AXELL SAPUTRA",
+    "Pendamping": "Anzila"
+  },
+  {
+    "Kelompok": 31,
+    "NIM": "F1D022160",
+    "Nama": "SEPTIAN DWI SAPUTRA",
+    "Pendamping": "Anzila"
+  },
+  {
+    "Kelompok": 32,
+    "NIM": "F1D022092",
+    "Nama": "RIZKA SAFITRI",
+    "Pendamping": "Hilman"
+  },
+  {
+    "Kelompok": 32,
+    "NIM": "F1D022127",
+    "Nama": "KAYLA MIZANTI",
+    "Pendamping": "Hilman"
+  },
+  {
+    "Kelompok": 32,
+    "NIM": "F1D022119",
+    "Nama": "FADILA RAMDHANI MUAZ",
+    "Pendamping": "Hilman"
+  },
+  {
+    "Kelompok": 33,
+    "NIM": "F1D022001",
+    "Nama": "AJENG SAKINAH WULANDARI",
+    "Pendamping": "Yuan"
+  },
+  {
+    "Kelompok": 33,
+    "NIM": "F1D022083",
+    "Nama": "NADYA AZZAHRA",
+    "Pendamping": "Yuan"
+  },
+  {
+    "Kelompok": 33,
+    "NIM": "F1D022123",
+    "Nama": "I NENGAH YOGA PRAMANA",
+    "Pendamping": "Yuan"
+  },
+  {
+    "Kelompok": 34,
+    "NIM": "F1D022100",
+    "Nama": "WAHYU SEPTIAN WIBOWO",
+    "Pendamping": "Darmawan"
+  },
+  {
+    "Kelompok": 34,
+    "NIM": "F1D022104",
+    "Nama": "ABDUL WAFA'",
+    "Pendamping": "Darmawan"
+  },
+  {
+    "Kelompok": 34,
+    "NIM": "F1D022053",
+    "Nama": "IDA BAGUS DANENDRA KUSUMA",
+    "Pendamping": "Darmawan"
+  },
+  {
+    "Kelompok": 35,
+    "NIM": "F1D022043",
+    "Nama": "FAIZAH",
+    "Pendamping": "Holil"
+  },
+  {
+    "Kelompok": 35,
+    "NIM": "F1D022163",
+    "Nama": "ZASKIA ELVINA DEWI",
+    "Pendamping": "Holil"
+  },
+  {
+    "Kelompok": 35,
+    "NIM": "F1D022079",
+    "Nama": "MUHAMMAD SYAHID AGIL ASSAHBANI",
+    "Pendamping": "Holil"
+  },
+  {
+    "Kelompok": 36,
+    "NIM": "F1D022039",
+    "Nama": "DEWI AGUSTIN ASRI",
+    "Pendamping": "Ghifary"
+  },
+  {
+    "Kelompok": 36,
+    "NIM": "F1D022135",
+    "Nama": "MAFTUH AHNAN AL-KAUTSAR",
+    "Pendamping": "Ghifary"
+  },
+  {
+    "Kelompok": 36,
+    "NIM": "F1D022055",
+    "Nama": "LALU BISMA KURNIAWAN HARIS",
+    "Pendamping": "Ghifary"
+  },
+  {
+    "Kelompok": 37,
+    "NIM": "F1D022108",
+    "Nama": "AJUNDASRIKA ANUGRAHANTI TS",
+    "Pendamping": "Rama"
+  },
+  {
+    "Kelompok": 37,
+    "NIM": "F1D022136",
+    "Nama": "MAHARDIKA NAUFAL NUGROHO",
+    "Pendamping": "Rama"
+  },
+  {
+    "Kelompok": 37,
+    "NIM": "F1D022107",
+    "Nama": "AISYAH ALTARA MEDYA",
+    "Pendamping": "Rama"
+  },
+  {
+    "Kelompok": 38,
+    "NIM": "F1D022110",
+    "Nama": "AMEYLIA INTAN ZURTIKA AYU",
+    "Pendamping": "Yuan"
+  },
+  {
+    "Kelompok": 38,
+    "NIM": "F1D022149",
+    "Nama": "NABILA AZKIYA ROSYIDA WIJAYANTI",
+    "Pendamping": "Yuan"
+  },
+  {
+    "Kelompok": 38,
+    "NIM": "F1D022030",
+    "Nama": "ADINA AYU DARASWITA",
+    "Pendamping": "Yuan"
+  },
+  {
+    "Kelompok": 39,
+    "NIM": "F1D022066",
+    "Nama": "MUHAMAD GILANG RAHARDI PUTRA",
+    "Pendamping": "Amdila"
+  },
+  {
+    "Kelompok": 39,
+    "NIM": "F1D022048",
+    "Nama": "I MADE ARYA KRISNANDY",
+    "Pendamping": "Amdila"
+  },
+  {
+    "Kelompok": 39,
+    "NIM": "F1D022096",
+    "Nama": "SAFIRA DWIRIZQIA",
+    "Pendamping": "Amdila"
+  },
+  {
+    "Kelompok": 40,
+    "NIM": "F1D022165",
+    "Nama": "ZIDAN SHONI IKRAM",
+    "Pendamping": "Ali"
+  },
+  {
+    "Kelompok": 40,
+    "NIM": "F1D022153",
+    "Nama": "RAFA MAULANA RAHMAN",
+    "Pendamping": "Ali"
+  },
+  {
+    "Kelompok": 40,
+    "NIM": "F1D022087",
+    "Nama": "PUTRA HERYAN GAGAH PERKASA",
+    "Pendamping": "Ali"
+  },
+  {
+    "Kelompok": 41,
+    "NIM": "F1D022082",
+    "Nama": "NABILA NUR SYFANI",
+    "Pendamping": "Rama"
+  },
+  {
+    "Kelompok": 41,
+    "NIM": "F1D022026",
+    "Nama": "TALYTA ALYADIA AZKIAH",
+    "Pendamping": "Rama"
+  },
+  {
+    "Kelompok": 41,
+    "NIM": "F1D022113",
+    "Nama": "ARNETHA NIRWANA PUTRI",
+    "Pendamping": "Rama"
+  },
+  {
+    "Kelompok": 42,
+    "NIM": "F1D022137",
+    "Nama": "MUH. RESSA ARSY MA'RIF",
+    "Pendamping": "Rusdi"
+  },
+  {
+    "Kelompok": 42,
+    "NIM": "F1D022142",
+    "Nama": "MUHAMMAD DAFFA DZAKI AHNAF",
+    "Pendamping": "Rusdi"
+  },
+  {
+    "Kelompok": 42,
+    "NIM": "F1D022138",
+    "Nama": "MUHAMAD ZIBAN THABRANI",
+    "Pendamping": "Rusdi"
+  }
+]
