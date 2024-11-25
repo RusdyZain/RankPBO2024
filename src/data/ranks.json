@@ -1,158 +1,534 @@
 [
   {
-    "Nama": "ANSELMA KALIKA KIRANA",
     "NIM": "F1D022112",
-    "Score": 83.5325,
     "Rank": 105
   },
   {
-    "Nama": "IDA AYU VINAYA ANINDYA",
     "NIM": "F1D022124",
-    "Score": 86.93125,
     "Rank": 75
   },
   {
-    "Nama": "IDA AYU RAVIKAN VARAPANNA PUTRA",
     "NIM": "F1D022051",
-    "Score": 89.58875,
     "Rank": 37
   },
   {
-    "Nama": "IDA AYU DEWI PURNAMA ANJANI",
     "NIM": "F1D022050",
-    "Score": 90.55875,
     "Rank": 29
   },
   {
-    "Nama": "INDIRA FELISTA SANIS SUPARSA",
     "NIM": "F1D022054",
-    "Score": 90.655,
     "Rank": 26
   },
   {
-    "Nama": "PUTU INDAH PUSPITA DEWI",
     "NIM": "F1D022020",
-    "Score": 90.27375,
     "Rank": 32
   },
   {
-    "Nama": "GUSTI AYU DEVI ANJANI PUTRI",
     "NIM": "F1D022006",
-    "Score": 95.39375,
     "Rank": 4
   },
   {
-    "Nama": "DHINDA TSAMARA SHALSABILLA",
     "NIM": "F1D022005",
-    "Score": 93.4375,
     "Rank": 11
   },
   {
-    "Nama": "BAIQ LUTHFIDA KHAIRUNNISA",
     "NIM": "F1D022037",
-    "Score": 90.063625,
     "Rank": 33
   },
   {
-    "Nama": "MUHAMMAD ADITYA RIZKI",
     "NIM": "F1D022067",
-    "Score": 96.0375,
     "Rank": 1
   },
   {
-    "Nama": "MUHAMMAD FAJAR MAULANA",
     "NIM": "F1D022072",
-    "Score": 86.39875,
     "Rank": 78
   },
   {
-    "Nama": "MUHAMMAD RIFKYANDRYAN RUSTANTO",
     "NIM": "F1D022077",
-    "Score": 89.93875,
     "Rank": 36
   },
   {
-    "Nama": "CINDY AULIA RAHMANI",
     "NIM": "F1D022116",
-    "Score": 88.30125,
     "Rank": 55
   },
   {
-    "Nama": "LALU MUHAMMAD NOVAL ADIPRATAMA",
     "NIM": "F1D022056",
-    "Score": 87.92375,
     "Rank": 62
   },
   {
-    "Nama": "NABILA NOOR AZIZAH",
     "NIM": "F1D022081",
-    "Score": 91.68,
     "Rank": 21
   },
   {
-    "Nama": "BAIQ SINDI HANJANI",
     "NIM": "F1D022115",
-    "Score": 87.075,
     "Rank": 72
   },
   {
-    "Nama": "ZAHRA TRI LUSIANA",
     "NIM": "F1D022162",
-    "Score": 91.21875,
     "Rank": 23
   },
   {
-    "Nama": "LALU OLFATA VEDORA ZURJI",
     "NIM": "F1D022057",
-    "Score": 90.5875,
     "Rank": 28
   },
   {
-    "Nama": "I GEDE MANIK ARIYASA",
     "NIM": "F1D022046",
-    "Score": 90.0225,
     "Rank": 35
   },
   {
-    "Nama": "KARUNIA PUTRI",
     "NIM": "F1D022010",
-    "Score": 88.765,
     "Rank": 49
   },
   {
-    "Nama": "NI PUTU ALVINA PUTRI",
     "NIM": "F1D022017",
-    "Score": 88.89125,
     "Rank": 46
   },
   {
-    "Nama": "ZIDAN SHONI IKRAM",
     "NIM": "F1D022165",
-    "Score": 85.88125,
     "Rank": 85
   },
   {
-    "Nama": "ALDRIN RAHMAD ALDINO",
     "NIM": "F1D022109",
-    "Score": 87.945,
     "Rank": 61
   },
   {
-    "Nama": "PRADIVA WIYUDHA MAHESWARA",
     "NIM": "F1D022151",
-    "Score": 86.6075,
     "Rank": 77
   },
   {
-    "Nama": "RAFLI FACHRIN KARDIANSYAH",
     "NIM": "F1D022154",
-    "Score": 88.795,
     "Rank": 47
   },
   {
-    "Nama": "SULTHAN ABDILLAH WIJAYA RAYES",
     "NIM": "F1D022161",
-    "Score": 86.22125,
     "Rank": 79
+  },
+  {
+    "NIM": "F1D022008",
+    "Rank": 51
+  },
+  {
+    "NIM": "F1D022157",
+    "Rank": 41
+  },
+  {
+    "NIM": "F1D022062",
+    "Rank": 27
+  },
+  {
+    "NIM": "F1D022070",
+    "Rank": 19
+  },
+  {
+    "NIM": "F1D022152",
+    "Rank": 60
+  },
+  {
+    "NIM": "F1D022140",
+    "Rank": 96
+  },
+  {
+    "NIM": "F1D022091",
+    "Rank": 5
+  },
+  {
+    "NIM": "F1D022102",
+    "Rank": 8
+  },
+  {
+    "NIM": "F1D022029",
+    "Rank": 73
+  },
+  {
+    "NIM": "F1D022149",
+    "Rank": 97
+  },
+  {
+    "NIM": "F1D022045",
+    "Rank": 66
+  },
+  {
+    "NIM": "F1D022088",
+    "Rank": 3
+  },
+  {
+    "NIM": "F1D022121",
+    "Rank": 12
+  },
+  {
+    "NIM": "F1D022079",
+    "Rank": 88
+  },
+  {
+    "NIM": "F1D022055",
+    "Rank": 87
+  },
+  {
+    "NIM": "F1D022155",
+    "Rank": 9
+  },
+  {
+    "NIM": "F1D022136",
+    "Rank": 112
+  },
+  {
+    "NIM": "F1D022016",
+    "Rank": 43
+  },
+  {
+    "NIM": "F1D022023",
+    "Rank": 71
+  },
+  {
+    "NIM": "F1D022031",
+    "Rank": 89
+  },
+  {
+    "NIM": "F1D022092",
+    "Rank": 93
+  },
+  {
+    "NIM": "F1D022163",
+    "Rank": 91
+  },
+  {
+    "NIM": "F1D022066",
+    "Rank": 94
+  },
+  {
+    "NIM": "F1D022118",
+    "Rank": 20
+  },
+  {
+    "NIM": "F1D022120",
+    "Rank": 68
+  },
+  {
+    "NIM": "F1D022122",
+    "Rank": 67
+  },
+  {
+    "NIM": "F1D022146",
+    "Rank": 59
+  },
+  {
+    "NIM": "F1D022135",
+    "Rank": 86
+  },
+  {
+    "NIM": "F1D022065",
+    "Rank": 42
+  },
+  {
+    "NIM": "F1D022012",
+    "Rank": 13
+  },
+  {
+    "NIM": "F1D022011",
+    "Rank": 17
+  },
+  {
+    "NIM": "F1D022053",
+    "Rank": 110
+  },
+  {
+    "NIM": "F1D022047",
+    "Rank": 58
+  },
+  {
+    "NIM": "F1D022048",
+    "Rank": 101
+  },
+  {
+    "NIM": "F1D022123",
+    "Rank": 104
+  },
+  {
+    "NIM": "F1D022104",
+    "Rank": 109
+  },
+  {
+    "NIM": "F1D022099",
+    "Rank": 82
+  },
+  {
+    "NIM": "F1D022060",
+    "Rank": 76
+  },
+  {
+    "NIM": "F1D022039",
+    "Rank": 80
+  },
+  {
+    "NIM": "F1D022001",
+    "Rank": 116
+  },
+  {
+    "NIM": "F1D022069",
+    "Rank": 22
+  },
+  {
+    "NIM": "F1D022094",
+    "Rank": 2
+  },
+  {
+    "NIM": "F1D022085",
+    "Rank": 70
+  },
+  {
+    "NIM": "F1D022150",
+    "Rank": 40
+  },
+  {
+    "NIM": "F1D022032",
+    "Rank": 44
+  },
+  {
+    "NIM": "F1D022049",
+    "Rank": 18
+  },
+  {
+    "NIM": "F1D019066",
+    "Rank": 133
+  },
+  {
+    "NIM": "F1D022027",
+    "Rank": 119
+  },
+  {
+    "NIM": "F1D022043",
+    "Rank": 90
+  },
+  {
+    "NIM": "F1D022158",
+    "Rank": 6
+  },
+  {
+    "NIM": "F1D022143",
+    "Rank": 52
+  },
+  {
+    "NIM": "F1D022028",
+    "Rank": 83
+  },
+  {
+    "NIM": "F1D022097",
+    "Rank": 64
+  },
+  {
+    "NIM": "F1D022145",
+    "Rank": 122
+  },
+  {
+    "NIM": "F1D022100",
+    "Rank": 106
+  },
+  {
+    "NIM": "F1D022098",
+    "Rank": 7
+  },
+  {
+    "NIM": "F1D022095",
+    "Rank": 56
+  },
+  {
+    "NIM": "F1D022024",
+    "Rank": 30
+  },
+  {
+    "NIM": "F1D022137",
+    "Rank": 125
+  },
+  {
+    "NIM": "F1D022075",
+    "Rank": 16
+  },
+  {
+    "NIM": "F1D022022",
+    "Rank": 57
+  },
+  {
+    "NIM": "F1D022052",
+    "Rank": 15
+  },
+  {
+    "NIM": "F1D022059",
+    "Rank": 38
+  },
+  {
+    "NIM": "F1D022105",
+    "Rank": 63
+  },
+  {
+    "NIM": "F1D022111",
+    "Rank": 31
+  },
+  {
+    "NIM": "F1D022107",
+    "Rank": 113
+  },
+  {
+    "NIM": "F1D022110",
+    "Rank": 121
+  },
+  {
+    "NIM": "F1D022113",
+    "Rank": 124
+  },
+  {
+    "NIM": "F1D022156",
+    "Rank": 54
+  },
+  {
+    "NIM": "F1D022003",
+    "Rank": 114
+  },
+  {
+    "NIM": "F1D021037",
+    "Rank": 130
+  },
+  {
+    "NIM": "F1D022144",
+    "Rank": 132
+  },
+  {
+    "NIM": "F1D022019",
+    "Rank": 92
+  },
+  {
+    "NIM": "F1D022002",
+    "Rank": 99
+  },
+  {
+    "NIM": "F1D022129",
+    "Rank": 74
+  },
+  {
+    "NIM": "F1D022164",
+    "Rank": 100
+  },
+  {
+    "NIM": "F1D022160",
+    "Rank": 84
+  },
+  {
+    "NIM": "F1D022013",
+    "Rank": 68
+  },
+  {
+    "NIM": "F1D022142",
+    "Rank": 126
+  },
+  {
+    "NIM": "F1D022087",
+    "Rank": 118
+  },
+  {
+    "NIM": "F1D022153",
+    "Rank": 117
+  },
+  {
+    "NIM": "F1D022093",
+    "Rank": 34
+  },
+  {
+    "NIM": "F1D021069",
+    "Rank": 129
+  },
+  {
+    "NIM": "F1D022044",
+    "Rank": 131
+  },
+  {
+    "NIM": "F1D022073",
+    "Rank": 14
+  },
+  {
+    "NIM": "F1D022080",
+    "Rank": 48
+  },
+  {
+    "NIM": "F1D022106",
+    "Rank": 127
+  },
+  {
+    "NIM": "F1D022138",
+    "Rank": 128
+  },
+  {
+    "NIM": "F1D022068",
+    "Rank": 50
+  },
+  {
+    "NIM": "F1D022127",
+    "Rank": 103
+  },
+  {
+    "NIM": "F1D022096",
+    "Rank": 95
+  },
+  {
+    "NIM": "F1D022030",
+    "Rank": 98
+  },
+  {
+    "NIM": "F1D022082",
+    "Rank": 115
+  },
+  {
+    "NIM": "F1D022058",
+    "Rank": 39
+  },
+  {
+    "NIM": "F1D022090",
+    "Rank": 81
+  },
+  {
+    "NIM": "F1D022083",
+    "Rank": 102
+  },
+  {
+    "NIM": "F1D022103",
+    "Rank": 53
+  },
+  {
+    "NIM": "F1D022036",
+    "Rank": 10
+  },
+  {
+    "NIM": "F1D022038",
+    "Rank": 45
+  },
+  {
+    "NIM": "F1D022101",
+    "Rank": 24
+  },
+  {
+    "NIM": "F1D022119",
+    "Rank": 108
+  },
+  {
+    "NIM": "F1D022126",
+    "Rank": 120
+  },
+  {
+    "NIM": "F1D022009",
+    "Rank": 65
+  },
+  {
+    "NIM": "F1D022026",
+    "Rank": 123
+  },
+  {
+    "NIM": "F1D022041",
+    "Rank": 107
+  },
+  {
+    "NIM": "F1D022125",
+    "Rank": 25
+  },
+  {
+    "NIM": "F1D022108",
+    "Rank": 111
   }
 ]
