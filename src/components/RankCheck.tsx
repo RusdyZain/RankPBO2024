@@ -4,7 +4,7 @@ import { FaTrophy } from "react-icons/fa";
 export default function RankCheck() {
   const [nim, setNim] = useState("");
   interface RankData {
-    rank?: number;
+    Rank?: number;
     error?: string;
   }
 
@@ -17,7 +17,7 @@ export default function RankCheck() {
     }
 
     try {
-      const res = await fetch(`/api/ranks?nim=${nim}`);
+      const res = await fetch(`/api/rank?nim=${nim}`); // Ensure API endpoint matches
       const data = await res.json();
       if (res.ok) setRank(data);
       else setRank({ error: data.error });
@@ -51,7 +51,7 @@ export default function RankCheck() {
             <p className="text-red-500">{rank.error}</p>
           ) : (
             <p>
-              Rank: <strong>{rank.rank}</strong>
+              Rank: <strong>{rank.Rank}</strong>
             </p>
           )}
         </div>
